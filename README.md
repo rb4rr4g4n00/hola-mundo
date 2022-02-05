@@ -3,7 +3,7 @@ Un nuevo repositorio
 
 
 @author Raul B
-@version 05/02/22\n
+@version 05/02/22
 @deprecated 05/02/22
 
 Esta es una descripcion mas grande.
